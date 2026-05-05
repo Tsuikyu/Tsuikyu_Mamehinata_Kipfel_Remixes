@@ -18,11 +18,13 @@ Album
 - **Track 1:** Mamehinata
 - **Track 2:** Mamehinata (SomeOn3 Remix)  
 - **Track 3:** Mamehinata (amasato_mochi Remix) 
+- **Track 4:** Mamehinata (hirokunboy Remix)
 
 ### Disc 2 Kipfel:
 
 - **Track 1:** Kipfel
-- **Track 2:** Kipfel (TSM Remix)
+- **Track 2:** Kipfel (TSK Remix)
+- **Track 3:** MONTAGEM KIPFEL (hirokunboy Remix)
 
 ### Disc 3 Usasaki:
 
