@@ -32,6 +32,7 @@ Album
 
 - **Track 1:** Usasaki
 - **Track 2:** Usasaki (兎埼あるな Remix)
+- **Track 3:** Usasaki (TSK Remix)
 
 ---
 
